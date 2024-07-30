@@ -12,7 +12,7 @@ setInterval(function()
 
 setInterval(() =>
 {
-    console.log("hai ishu");
+    console.log("hi");
 }
  ,3000)
  //self calling function
